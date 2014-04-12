@@ -8,7 +8,7 @@ public class Test
 	 */
 	public static void main(String[] args)
 	{
-		System.out.println("Great~~");
+		System.out.println("Great~~11");
 	}
 
 }
